@@ -242,5 +242,21 @@ Validation accuracy is printed for each fold during training. The script also pr
 Fold validation accuracies: 0.48
 
 ```
+## Results
 
-Update this section with your final validation score after running the notebook/script.
+The final model achieved a **test score of 0.49** after submission.
+
+This result placed the project in the **Top 6** of the competition leaderboard.
+
+```text
+Final test score: 0.49
+Leaderboard rank: Top 6
+```
+
+The script also prints validation accuracy for each fold during training, followed by the mean validation accuracy after all folds are completed.
+
+```text
+Fold validation accuracies: [...]
+Mean validation accuracy: ...
+```
+
