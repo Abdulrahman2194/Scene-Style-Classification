@@ -253,10 +253,3 @@ Final test score: 0.49
 Leaderboard rank: Top 6
 ```
 
-The script also prints validation accuracy for each fold during training, followed by the mean validation accuracy after all folds are completed.
-
-```text
-Fold validation accuracies: [...]
-Mean validation accuracy: ...
-```
-
